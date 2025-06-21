@@ -1,0 +1,12 @@
+h5py
+joblib
+jupyter
+matplotlib
+numba
+numpy
+pytest
+scikit-learn
+scipy
+seaborn
+sktime
+tensorflow
